@@ -1,5 +1,5 @@
-#ifndef MEPHI_DOZEN_METHODS_H
-#define MEPHI_DOZEN_METHODS_H
+#ifndef METHODS_H
+#define METHODS_H
 #include "abonent.h"
 
 int check_phone(const char *phone);

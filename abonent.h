@@ -1,5 +1,5 @@
-#ifndef MEPHI_DOZEN_ABONENT_H
-#define MEPHI_DOZEN_ABONENT_H
+#ifndef ABONENT_H
+#define ABONENT_H
 
 typedef struct Abonent {
     char *name;
